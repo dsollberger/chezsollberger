@@ -1,30 +1,47 @@
 ---
 title: "Chez Sollberger"
-author: "Derek Sollberger"
-date: "7/17/2021"
-output: html_document
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+library(flexdashboard)
 ```
 
-## R Markdown
+Caramelized Onions
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* Cut 2-6 onions into desired shapes
+* Slow cook with a stick of butter (8 oz) and 1 tbsp of salt for several hours
+* Drain excess liquid
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Dumplings
 
-```{r cars}
-summary(cars)
-```
+adapted from [Jet Tila's sew mai recipe](https://www.foodnetwork.com/recipes/sew-mai-dumplings-5569411)
 
-## Including Plots
+* 1 lb ground pork
+* 1/2 cup of carrots
+* 1/2 cup of mushooms
+* wonton wrappers (makes about 25 dumplings)
+* 1 tbsp oyster sauce
+* 1 tbsp sesame oil
+* 1 tsp cornstarch (helps bind ingredients)
+* 1/2 tsp salt
+* pinch of pepper
 
-You can also embed plots, for example:
+1. mix ingredients by hand in a mixing bowl and refrigerate for at least one hour
+2. assemble dumplings
+3. steam for 7 minutes
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Eggs, poached --- via microwave!
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* crack an egg in a mug
+* fill mug halfway with water
+* add 1 tsbp vinegar
+* cover mug with a saucer
+* microwave for 1 minute
+
+### Cookbooks
+
+* [Wikimedia](https://en.m.wikibooks.org/wiki/Cookbook:Table_of_Contents)
