@@ -1,0 +1,62 @@
+---
+title: "Chez Sollberger"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Caramelized Onions
+
+* Cut 2-6 onions into desired shapes
+* Slow cook with a stick of butter (8 oz) and 1 tbsp of salt for several hours
+* Drain excess liquid
+
+Dumplings
+
+adapted from [Jet Tila's sew mai recipe](https://www.foodnetwork.com/recipes/sew-mai-dumplings-5569411)
+
+* 1 lb ground pork
+* 1/2 cup of carrots
+* 1/2 cup of mushooms
+* wonton wrappers (makes about 25 dumplings)
+* 1 tbsp oyster sauce
+* 1 tbsp sesame oil
+* 1 tsp cornstarch (helps bind ingredients)
+* 1/2 tsp salt
+* pinch of pepper
+
+1. mix ingredients by hand in a mixing bowl and refrigerate for at least one hour
+2. assemble dumplings
+3. steam for 7 minutes
+
+Eggs, poached --- via microwave!
+
+* crack an egg in a mug
+* fill mug halfway with water
+* add 1 tsbp vinegar
+* cover mug with a saucer
+* microwave for 1 minute
+
+rice, via oven
+
+* preheat oven to 375 degrees Fahrenheit
+* boil water
+* wash rice
+* put equal parts of rice and water in a skillet (e.g. "1 cup rice" with 1 cup of water)
+* bake for about 25 minutes
+
+Soboro
+
+* start to brown 1 pound of ground beef in cooking oil
+* drain excess oil and fat, then return to pan
+* add 2 tbsp mushroom soy sauce, 2 tbsp mirin, 2 tbsp sesame oil
+* finish cooking
+
+### Cookbooks
+
+* [Wikimedia](https://en.m.wikibooks.org/wiki/Cookbook:Table_of_Contents)
