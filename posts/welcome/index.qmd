@@ -1,0 +1,11 @@
+---
+title: "Food item goes here"
+author: "Derek Sollberger"
+date: "2022-08-13"
+categories: [news]
+---
+
+
+![](thumbnail.jpg)
+
+
