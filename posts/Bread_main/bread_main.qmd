@@ -1,0 +1,27 @@
+---
+title: "Bread, main"
+author: "Derek Sollberger"
+date: "2022-08-23"
+categories: [bread]
+---
+
+In this ongoing effort to make bread that I like at home, I start with some ideas from *Flour Water Salt Yeast* by Ken Forkish, but then take a lot of shortcuts.
+
+* warm water to 40 degrees Celsius (say, in the sous vide rig)
+* in the stand mixer bowl, combine
+
+    * 500 grams all-purpose flour
+    * 150 grams of the warm water
+    * 1 tsp salt
+    * 1 tsp yeast
+    
+* wait 10 minutes (i.e. allow yeast to activate)
+* mix on low for 10 minutes (add flour/water as needed)
+* cover allow dough to rise in bowl for an hour
+* dust cutting board surface with flour, remove dough, fold into boule, place boule on surface, drizzle olive oil (to prevent drying out), cover, and rest for an hour
+* preheat oven to 500 degrees Fahrenheit (note: my oven runs cold, so I am actually aiming for 475 degrees) with Dutch oven inside
+* cut line(s) on top of boule (to help ease expansion)
+* place boule in Dutch oven
+* cook covered for 30 minutes
+* cook uncovered for 15 minutes
+* rest on wire rack

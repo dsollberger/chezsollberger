@@ -2,6 +2,9 @@
   {
     "listing": "/menu.html",
     "items": [
+      "/posts/Bread_main/bread_main.html",
+      "/posts/Pickling/pickling.html",
+      "/posts/Spanish Rice/Spanish_rice.html",
       "/posts/welcome/index.html"
     ]
   }
