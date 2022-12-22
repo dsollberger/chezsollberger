@@ -1,9 +1,25 @@
 ---
-title: "Bread, main"
+title: "Breads"
 author: "Derek Sollberger"
-date: "2022-08-23"
+date: "2022-12-21"
 categories: [bread]
 ---
+
+# Stand-Mixer Bread
+
+* heat 720 grams of water to 40 degrees Celsius
+
+In mixing bowl, combine
+
+* 1000 g all-purpose flour
+* 720 g water
+* 1 tbsp salt
+* 1 tsp yeast
+* wait 10 minutes
+
+Using the stand mixer, run on "low" for 10 minutes (add water or flour as needed)
+
+# Quality Bread
 
 In this ongoing effort to make bread that I like at home, I start with some ideas from *Flour Water Salt Yeast* by Ken Forkish, but then take a lot of shortcuts.
 
