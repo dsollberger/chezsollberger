@@ -2,7 +2,12 @@
   {
     "listing": "/menu.html",
     "items": [
+      "/posts/Sauces/sauces.html",
+      "/posts/Noodles/noodles.html",
+      "/posts/Beans/beans.html",
       "/posts/Bread_main/bread_main.html",
+      "/posts/Carrots/carrots.html",
+      "/posts/Milkshakes/milkshakes.html",
       "/posts/Pickling/pickling.html",
       "/posts/Spanish Rice/Spanish_rice.html",
       "/posts/welcome/index.html"

@@ -7,7 +7,7 @@ categories: [bread]
 
 # Stand-Mixer Bread
 
-* heat 720 grams of water to 40 degrees Celsius
+* heat 720 grams of water to 40 degrees Celsius (104 degrees Fahrenheit)
 
 In mixing bowl, combine
 
